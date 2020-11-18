@@ -1,0 +1,23 @@
+/vendor/
+tienda/node_modules/
+tienda/npm-debug.log
+tienda/yarn-error.log
+
+# Laravel 5 & Lumen specific
+tienda/public/storage
+tienda/public/hot
+
+# Laravel 5 & Lumen specific with changed public path
+tienda/public_html/storage
+tienda/public_html/hot
+
+tienda/storage/*.key
+tienda/.env
+tienda/Homestead.yaml
+tienda/Homestead.json
+tienda/.vagrant
+tienda/.phpunit.result.cach
+
+composer.phar
+composer.json
+composer.lock
