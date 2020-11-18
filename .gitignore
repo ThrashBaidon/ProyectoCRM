@@ -19,5 +19,4 @@ tienda/.vagrant
 tienda/.phpunit.result.cach
 
 composer.phar
-composer.json
-composer.lock
+
