@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laravel/jetstream": "^1.6",
+        "laravel/installer": "^4.1"
+    }
+}
